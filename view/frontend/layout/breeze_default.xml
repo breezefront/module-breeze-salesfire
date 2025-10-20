@@ -9,10 +9,6 @@
                         <item name="items" xsi:type="array">
                             <item name="sfgetid" xsi:type="array">
                                 <item name="path" xsi:type="string">Salesfire_Salesfire/js/sfgetid</item>
-
-                                <item name="enabled" xsi:type="helper" helper="Swissup\Breeze\Helper\Config::isEnabled">
-                                    <param name="path">salesfire/general/is_enabled</param>
-                                </item>
                             </item>
                         </item>
                     </item>
